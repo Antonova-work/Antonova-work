@@ -7,12 +7,10 @@
 ## 🚀 Основные направления
 
 ### ☕ [Java Development](https://github.com/Antonova-work/learning-java)
-Мой основной путь в изучении Java Core.
-* **Прогресс:** От базового синтаксиса до ООП и интерфейсов.
-* **Цель:** Выйти на первую стажировку в качестве Backend Developer.
+* **Мой основной путь в изучении Java Core.**
 
 ### 🤖 [Machine Learning](https://github.com/Antonova-work/machine-learning-semester-1)
-Практика и исследования в области Машинного Обучения.
+**Практика и обучение в области Машинного Обучения.**
 * **Семестр 1:** Предобработка данных и классические модели.
 * **Семестр 2:** Метрики эффективности и диагностические кривые.
 
@@ -31,10 +29,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%23C70805.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 *«Practice makes perfect»*
