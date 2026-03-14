@@ -6,22 +6,29 @@
 
 ## 🚀 Основные направления
 
-### ☕ [Java Development](https://github.com/Antonova-work/learning-java)
+### ☕ [Learning Java](https://github.com/Antonova-work/learning-java)
+### 💻 [Modern Programming Technologies](https://github.com/Antonova-work/modern-programming-technologies-semester-1)
 * **Мой путь в изучении Java.**
-
-### 🤖 [Machine Learning](https://github.com/Antonova-work/machine-learning-semester-1)
-**Практика и обучение в области Машинного Обучения.**
-* **Семестр 1:** Предобработка данных и классические модели.
-* **Семестр 2:** Метрики эффективности и диагностические кривые. [В процессе].
-
-### 🎮 [Python Development](https://github.com/Antonova-work/practicum-semester-1)
-* **Реализация сложных логических игр и алгоритмов**: Морской бой, калькулятор на ПИЗ, Максит и другие.
 
 ---
 
-## 🧠 База знаний & Алгоритмы
+### 🤖 [Machine Learning 1](https://github.com/Antonova-work/machine-learning-semester-1)
+### 🤖 [Machine Learning 2](https://github.com/Antonova-work/machine-learning-semester-2)
+* **Практика и обучение в области Машинного Обучения.**
+
+---
+
+### 🎮 [Programming Practicum 1](https://github.com/Antonova-work/practicum-semester-1)
+### 🎮 [Programming Practicum 2](https://github.com/Antonova-work/practicum-semester-2)
+### 🧩 [Algorithm Gym](https://github.com/Antonova-work/algorithm-practice)
+
+* **Мой путь в изучении Python: тренировки в алгоритмах и интересные и сложные задачи из института.**
+
+---
+
+## 🧠 База знаний
 * **[Useful Notes](https://github.com/Antonova-work/useful_notes):** Мои шпаргалки по Git, горячим клавишам IDEA, виртуальным окружениям и т.д..
-* **[Algorithms](https://github.com/Antonova-work/python-algorithms):** Решение алгоритмических задач на Python и разбор тем из книги «Грокаем алгоритмы».
+* **[Algorithms](https://github.com/Antonova-work/python-algorithms):** Реализация алгоритмов на Python и разбор тем из книги «Грокаем алгоритмы».
 
 ---
 
