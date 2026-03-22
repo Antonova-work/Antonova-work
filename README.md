@@ -14,7 +14,8 @@
 
 ### 🤖 [Machine Learning 1](https://github.com/Antonova-work/machine-learning-semester-1)
 ### 🤖 [Machine Learning 2](https://github.com/Antonova-work/machine-learning-semester-2)
-* **Практика и обучение в области Машинного Обучения.**
+### 👾 [Learning Deep Learning](https://github.com/Antonova-work/learning-deep-learning)
+* **Практика и обучение в области машинного и глубокого обучения.**
 
 ---
 
