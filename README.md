@@ -7,7 +7,8 @@
 ## 🚀 Основные направления
 
 ### ☕ [Learning Java](https://github.com/Antonova-work/learning-java)
-### 💻 [Modern Programming Technologies](https://github.com/Antonova-work/modern-programming-technologies-semester-1)
+### 💻 [Modern Programming Technologies 1](https://github.com/Antonova-work/modern-tech-lab1)
+### 💻 [Modern Programming Technologies 2](https://github.com/Antonova-work/modern-tech-lab2)
 * **Мой путь в изучении Java.**
 
 ---
@@ -29,7 +30,7 @@
 
 ## 🧠 База знаний
 * **[Useful Notes](https://github.com/Antonova-work/useful_notes):** Мои шпаргалки по Git, горячим клавишам IDEA, виртуальным окружениям и т.д..
-* **[Algorithms](https://github.com/Antonova-work/python-algorithms):** Реализация алгоритмов на Python и разбор тем из книги «Грокаем алгоритмы».
+* **[Python Algorithms](https://github.com/Antonova-work/python-algorithms):** Реализация алгоритмов на Python и разбор тем из книги «Грокаем алгоритмы».
 
 ---
 
