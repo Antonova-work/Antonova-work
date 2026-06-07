@@ -35,14 +35,30 @@
 ---
 
 ## 🛠️ Стек технологий
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🐍 Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-%23C70805.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/rest_api-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🐳 Microservices & DevOps
+![Docker](https://img.shields.io/badge/docker-23cdb7?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-EC6242?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Databases
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CD0030?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧠 Algorithms & Competitions
+![LeetCode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
+![Hackathon](https://img.shields.io/badge/hackathon-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white)
 
 ---
 *«Practice makes perfect»*
